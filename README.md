@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Shell basics project 
+Shell basics project. This projects contain commands to perform some actions in Linux.
