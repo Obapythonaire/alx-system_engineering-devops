@@ -1,2 +1,3 @@
 #!/bin/bash
-ls –aR
+ls -ln -a
+
