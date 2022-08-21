@@ -20,13 +20,13 @@
 </ul>
 
 
-Below are the direct link to the files:
+Below are the direct link to the files: <br/>
 <a href="https://imgbox.com/IIHi7Iom" target="_blank"><img src="https://thumbs2.imgbox.com/ad/cf/IIHi7Iom_t.png" alt="0-simple_web_stack"/></a> 
-
+<br/>
 <a href="https://imgbox.com/tD9KNANl" target="_blank"><img src="https://thumbs2.imgbox.com/8d/99/tD9KNANl_t.png" alt="1-distributed_web_infrastructure"/></a> 
-
+<br/>
 <a href="https://imgbox.com/fqpSCfc0" target="_blank"><img src="https://thumbs2.imgbox.com/77/f0/fqpSCfc0_t.png" alt="2-secured_and_monitored_web_infrastructure"/></a>
-
+<br/>
 This work was done by: <br/>
 <a href="https://www.github.com/obapythonaire">Ogundare Abdulahi</a> 
 <br/>
