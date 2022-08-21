@@ -27,6 +27,9 @@ Below are the direct link to the files: <br/>
 <br/>
 <a href="https://imgbox.com/fqpSCfc0" target="_blank"><img src="https://thumbs2.imgbox.com/77/f0/fqpSCfc0_t.png" alt="2-secured_and_monitored_web_infrastructure"/></a>
 <br/>
+<a href="https://imgbox.com/94sdy1nw" target="_blank"><img src="https://thumbs2.imgbox.com/15/ad/94sdy1nw_t.png" alt="image host"/></a>
+<br/>
+
 This work was done by: <br/>
 <a href="https://www.github.com/obapythonaire">Ogundare Abdulahi</a> 
 <br/>
