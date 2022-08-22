@@ -30,9 +30,16 @@ Below are the direct link to the files: <br/>
 <a href="https://imgbox.com/94sdy1nw" target="_blank"><img src="https://thumbs2.imgbox.com/15/ad/94sdy1nw_t.png" alt="image host"/></a>
 <br/>
 
-This work was done by: <br/>
-<a href="https://www.github.com/obapythonaire">Ogundare Abdulahi</a> 
-<br/>
-<a href="https://www.github.com/searching">Tobi Bamidele</a> 
-&<br/>
-<a href="https://www.github.com/kded">Kenny David</a> 
+This Project was done by: <br/>
+<ol>
+<ul>
+Ogundare Abdulahi: <a href="https://www.github.com/obapythonaire">Github</a> |<a href="https://www.twitter.com/Abdulahi_001" target="_blank">Twitter</a>
+</ul>
+
+<ul>
+Tobi Bamidele: <a href="https://www.github.com/crewseefix">Github</a> |<a href="https://www.twitter.com/SavantBio" target="_blank">Twitter</a>
+</ul>
+<ul>
+Kenny David: <a href="https://www.github.com/Kennykded">Github</a> |<a href="https://www.twitter.com/Kennykded_" target="_blank">Twitter</a>
+</ul>
+</ol>
